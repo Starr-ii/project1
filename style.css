@@ -118,6 +118,7 @@ h2{
     display: grid;
     grid-template-columns: auto auto auto;
     /* padding: 30px 60px 20px 40px; */
+    padding-bottom: 40px;
     
    
 }
@@ -125,11 +126,18 @@ h2{
 .circle{
         width: 130px;
         height: 130px;
-        background: rgb(244, 141, 175);
+        background: rgb(225, 174, 191);
         border-radius: 50%;  
+        border: 1px solid black;
         margin-right: 40px;
-        margin-left: 70px;
+        margin-left: 190px;
+        
 }
+
+/* .p1{
+    display: inline-block;
+    padding-bottom: 30px;
+} */
 
 /* .pink-p{
     padding-top: 80px;
